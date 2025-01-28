@@ -1,0 +1,26 @@
+
+
+.name{
+    color: #FF63E9;
+    font-family: 'Serif';
+}
+.corner{
+    border-radius: 8px;
+}
+.body_color{
+    background-color: #F5F5F5;
+}
+.texts{
+    font-family: "Serif";
+    color: #FF63E9;
+    font-weight: 700;
+    font-size: 32px;
+}
+.story_heading{
+    font-family: 'Noto Sans Malayalam', sans-serif;
+    color: black;
+}
+.line-height {
+    line-height: 2.5; 
+}
+
